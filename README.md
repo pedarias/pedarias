@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro.</h1>
 <h3 align="center">An enthusiast developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Javascript Data Structure and algorithms** and **Python**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://replit.com/@PedroArias4](https://replit.com/@PedroArias4)
 
