@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro.</h1>
 <h3 align="center">An enthusiast developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Algorithms Toolbox by Universidade da Califórnia, San Diego on Coursera** This online course covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming. We learn a lot of theory: how to sort data and how it helps for searching; how to break a large problem into pieces and solve them recursively; when it makes sense to proceed greedily; how dynamic programming is used in genomic studies. We practice solving computational problems, designing new algorithms, and implementing solutions efficiently (so that they run in less than a second).
+- 🌱 I’m currently learning **Algorithms Toolbox on Coursera**. This online course covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming. We learn a lot of theory: how to sort data and how it helps for searching; how to break a large problem into pieces and solve them recursively; when it makes sense to proceed greedily; how dynamic programming is used in genomic studies. We practice solving computational problems, designing new algorithms, and implementing solutions efficiently (so that they run in less than a second).
 
 - 👨‍💻 All of my projects are available at my repositories and [https://replit.com/@PedroArias4](https://replit.com/@PedroArias4)
 
