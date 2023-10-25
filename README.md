@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro.</h1>
-<h3 align="center">An enthusiast developer from Brazil</h3>
+<h3 align="center">I'm a MSc Student in CS from Brazil</h3>
 
-- 🌱 I’m currently learning **Algorithms Toolbox on Coursera**. This online course covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming. We learn a lot of theory: how to sort data and how it helps for searching; how to break a large problem into pieces and solve them recursively; when it makes sense to proceed greedily; how dynamic programming is used in genomic studies. We practice solving computational problems, designing new algorithms, and implementing solutions efficiently (so that they run in less than a second).
+- 🌱 I’m currently learning **Machine Learning Specialization**. This course provides a broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.)
 
-- 👨‍💻 All of my projects are available at my repositories and [https://replit.com/@PedroArias4](https://replit.com/@PedroArias4)
+- 👨‍💻 All of my projects are available at my repositories
 
 - 📫 How to reach me **pedroarias92@gmail.com**
 
