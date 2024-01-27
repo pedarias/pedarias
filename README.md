@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Pedro.</h1>
-<h3 align="center">I'm a MSc student in CompScience from Brazil</h3>
+<h3 align="center">I'm a MSc student in Computer Science from Brazil</h3>
 
 - 🌱 I am currently immersed in a Machine Learning Specialization, a journey that offers an in-depth exploration of machine learning dealing with real world projects. This Specialization covers a wide spectrum of topics. Key areas of focus include:
      - **Supervised Learning**: linear regression, logistic regression, neural networks, decision trees, ...
