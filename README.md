@@ -1,13 +1,31 @@
-# 💫 About Me:
-<h1 align="center">Hello 👋, I'm Pedro.</h1><br><h3 align="center">Data Scientist at SENAI</h3><br><br>- 🌱 I am currently working as a Data Scientist and Mentor at SENAI with 1.5+ years of experience, a journey that offers an in-depth exploration of Python, machine learning, Deep Learning, MLOps, Generative AI, dealing with real-world projects. It covers a wide spectrum of topics. Key areas of focus include:<br>  - **Supervised Learning**: Classification, regression, neural networks, etc.<br>  - **Unsupervised Learning**: Clustering, dimensionality reduction, credit risk, etc.<br>  - **Time Series Forecasting**: Statistical models, ARIMA, LSTM networks.<br>  - **Natural Language Processing**: Semantic Similarity, Chatbot, RAG, Graph RAG, etc.<br>  - **Computer Vision**: Classification, Object Detection, Segmentation, Transfer Learning, Fine Tuning.<br><br>- 👨‍💻 All of my projects are available at my repositories.<br><br>- 📫 How to reach me **pedroarias92@gmail.com**<br><br>- ⚡ Fun fact **Ex football player**
+<h1 align="center">Hello 👋, I'm Pedro.</h1>
+<h3 align="center">Data Scientist</h3>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=pedarias&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true">
+
+### Hi there 👋
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGl2bDFrMXplbTI4aGVlbjFzYW5zazJ4M2kyM2M1ZHFtbWxoYXV4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QwzIZC8MCbBYcL75Ka/giphy.webp)
+
+- 🔭 I’m currently working as a Data Scientist and Mentor at SENAI/SISTEMA FIEP with 1.5+ years of experience in machine learning, Deep Learning, MLOps, and Generative AI.
+- 🌱 I'm immersed in Python, handling real-world projects that cover a wide spectrum of topics:
+  - **Supervised Learning**: Classification, regression, neural networks, etc.
+  - **Unsupervised Learning**: Clustering, dimensionality reduction, credit risk, etc.
+  - **Time Series Forecasting**: Statistical models, ARIMA, LSTM networks (Single Step/ Multi-step).
+  - **Natural Language Processing**: Semantic Similarity, Chatbot, RAG, Graph RAG, etc.
+  - **Computer Vision**: Classification, Object Detection, Segmentation, Transfer Learning, Fine Tuning, etc.
+- 👯 I am actively seeking to participate in a wide variety of projects, with the goal of broadening my knowledge and gaining practical experience. Committed to continuous learning, I am eager to apply my skills to solve real-world problems in the field.
+- 💬 Ask me about Data Analysis, Machine Learning, Deep Learning, MLOps, and other tech stuff.
+- 📫 How to reach me: [Email: pedroarias92@gmail.com](mailto:pedroarias92@gmail.com)
+- ⚡ Fun fact: Ex football player
+
+![](https://komarev.com/ghpvc/?username=pedarias&color=blueviolet) <br/>
 
 # 💻 Tech Stack:
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=mlflow&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pedarias&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pedarias&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedarias&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
