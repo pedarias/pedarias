@@ -1,11 +1,15 @@
 <h1 align="center">Hello 👋, I'm Pedro.</h1>
 <h3 align="center">Data Scientist</h3>
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pedarias&theme=github_dark&hide_border=false">
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pedarias&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedarias&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=pedarias&theme=github_dark&hide_border=false" /></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=pedarias&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedarias&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 ### Hi there 👋
 
