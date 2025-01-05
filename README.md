@@ -3,11 +3,11 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Data Scientist and Mentor at Hub-IA SENAI/SISTEMA FIEP with 1.5+ years of experience in machine learning, Deep Learning, MLOps, and Generative AI projects.
+- 🔭 I’m currently working as a Data Scientist and Mentor at HUB-IA SENAI with 1.5+ years of experience in machine learning, Deep Learning, MLOps, and Generative AI projects.
 - 🌱 I'm immersed in Python, handling real-world projects that cover a wide spectrum of topics:
   - **Supervised Learning**: Classification, regression, neural networks, etc.
   - **Unsupervised Learning**: Clustering, dimensionality reduction, credit risk, etc.
-  - **Time Series Forecasting**: Statistical models, ARIMA, LSTM networks (Single Step/ Multi-step).
+  - **Time Series Forecasting**: Statistical models, ARIMA, LSTM networks (Single Step/ Multi-step/Multi-Output models).
   - **Natural Language Processing**: Semantic Similarity, Chatbot, RAG, Graph RAG, etc.
   - **Computer Vision**: Classification, Object Detection, Segmentation, Transfer Learning, Fine Tuning, etc.
 - 👯 I am actively seeking to participate in a wide variety of projects, with the goal of broadening my knowledge and gaining practical experience. Committed to continuous learning, I am eager to apply my skills to solve real-world problems in the field.
@@ -19,6 +19,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedarias&theme=github_dark&hide_border=false">
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 ![](https://komarev.com/ghpvc/?username=pedarias&color=blueviolet) <br/>
 
 # 💻 Tech Stack:
@@ -28,3 +34,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/pedroarias92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedroarias92" height="30" width="40" /></a>
 </p>
+
+
