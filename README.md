@@ -4,7 +4,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pedarias&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true">
 
 ### Hi there 👋
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGl2bDFrMXplbTI4aGVlbjFzYW5zazJ4M2kyM2M1ZHFtbWxoYXV4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QwzIZC8MCbBYcL75Ka/giphy.webp)
 
 - 🔭 I’m currently working as a Data Scientist and Mentor at SENAI/SISTEMA FIEP with 1.5+ years of experience in machine learning, Deep Learning, MLOps, and Generative AI.
 - 🌱 I'm immersed in Python, handling real-world projects that cover a wide spectrum of topics:
