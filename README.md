@@ -1,19 +1,9 @@
 <h1 align="center">Hello 👋, I'm Pedro.</h1>
 <h3 align="center">Data Scientist</h3>
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=pedarias&theme=github_dark&hide_border=false" /></td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=pedarias&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedarias&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    </td>
-  </tr>
-</table>
-
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Data Scientist and Mentor at SENAI/SISTEMA FIEP with 1.5+ years of experience in machine learning, Deep Learning, MLOps, and Generative AI.
+- 🔭 I’m currently working as a Data Scientist and Mentor at Hub-IA SENAI/SISTEMA FIEP with 1.5+ years of experience in machine learning, Deep Learning, MLOps, and Generative AI projects.
 - 🌱 I'm immersed in Python, handling real-world projects that cover a wide spectrum of topics:
   - **Supervised Learning**: Classification, regression, neural networks, etc.
   - **Unsupervised Learning**: Clustering, dimensionality reduction, credit risk, etc.
@@ -24,6 +14,10 @@
 - 💬 Ask me about Data Analysis, Machine Learning, Deep Learning, MLOps, and other tech stuff.
 - 📫 How to reach me: [Email: pedroarias92@gmail.com](mailto:pedroarias92@gmail.com)
 - ⚡ Fun fact: Ex football player
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedarias&theme=github_dark&hide_border=false">
+</p>
 
 ![](https://komarev.com/ghpvc/?username=pedarias&color=blueviolet) <br/>
 
