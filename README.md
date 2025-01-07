@@ -21,7 +21,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedarias/pedarias/ac79dbe149277137622498bfb15969ff8a915102/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedarias/pedarias/ac79dbe149277137622498bfb15969ff8a915102/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedarias/pedarias/ac79dbe149277137622498bfb15969ff8a915102/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/pedarias/pedarias/ac79dbe149277137622498bfb15969ff8a915102/github-snake.svg" />
 </picture>
 
