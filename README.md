@@ -4,14 +4,14 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Data Scientist and Mentor at HUB-IA SENAI with 1.5+ years of experience in machine learning, Deep Learning, MLOps, and Generative AI projects.
-- 🌱 I'm immersed in Python, handling real-world projects that cover a wide spectrum of topics:
+- 🌱 I'm immersed in Python, handling **real-world projects** that cover a wide spectrum of topics:
   - **Supervised Learning**: Classification, regression, neural networks, etc.
   - **Unsupervised Learning**: Clustering, dimensionality reduction, credit risk, etc.
-  - **Time Series Forecasting**: Statistical models, ARIMA, LSTM networks (Single Step/ Multi-step/Multi-Output models).
+  - **Time Series Forecasting**: Statistical models (ARIMA, SARIMA, Prophet, etc.), LSTM networks (Single Step/ Multi-step/Multi-Output models), Temporal Fusion Transformer(TFT).
   - **Natural Language Processing**: Semantic Similarity, Chatbot, RAG, Graph RAG, etc.
   - **Computer Vision**: Classification, Object Detection, Segmentation, Transfer Learning, Fine Tuning, etc.
 - 👯 I am actively seeking to participate in a wide variety of projects, with the goal of broadening my knowledge and gaining practical experience. Committed to continuous learning, I am eager to apply my skills to solve real-world problems in the field.
-- 💬 Ask me about Data Analysis, Machine Learning, Deep Learning, MLOps, and other tech stuff.
+- 💬 Ask me about **Data Analysis**, **Machine Learning**, **Deep Learning**, **MLOps**, **GenAI**, and other **AI** stuff.
 - 📫 How to reach me: [Email: pedroarias92@gmail.com](mailto:pedroarias92@gmail.com)
 - ⚡ Fun fact: Ex football player
 
