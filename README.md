@@ -16,11 +16,11 @@
 - ⚡ Fun fact: Ex football player
 
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedarias&theme=github_dark&hide_border=false">
-</p> -->
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedarias&" alt="pedarias" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedarias&" alt="pedarias" /></p> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedarias/pedarias/ac79dbe149277137622498bfb15969ff8a915102/github-snake-dark.svg" />
