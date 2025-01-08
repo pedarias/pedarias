@@ -15,9 +15,12 @@
 - 📫 How to reach me: [Email: pedroarias92@gmail.com](mailto:pedroarias92@gmail.com)
 - ⚡ Fun fact: Ex football player
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedarias&theme=github_dark&hide_border=false">
-</p>
+</p> -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedarias&" alt="pedarias" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedarias/pedarias/ac79dbe149277137622498bfb15969ff8a915102/github-snake-dark.svg" />
@@ -34,5 +37,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/pedroarias92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedroarias92" height="30" width="40" /></a>
 </p>
-
-
