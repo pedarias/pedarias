@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Data Scientist and Mentor at HUB-IA SENAI with 1.5+ years of experience in machine learning, Deep Learning, MLOps, and Generative AI projects.
+- 🔭 I’m currently working as a Data Scientist at Platform Science.
 - 🌱 I'm immersed in Python, handling **real-world projects** that cover a wide spectrum of topics:
   - **Supervised Learning**: Classification, regression, neural networks, etc.
   - **Unsupervised Learning**: Clustering, dimensionality reduction, credit risk, etc.
